@@ -1,0 +1,22 @@
+# 编译产物
+target/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 日志
+*.log
+logs/
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# 操作系统
+.DS_Store
+Thumbs.db
